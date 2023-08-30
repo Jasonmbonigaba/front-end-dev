@@ -1,0 +1,1 @@
+This a website to give people a grimpse of Jason mbonigaba as a young frontend developer and a tech enthusiast in need for an oportunity to train and transend his skills.

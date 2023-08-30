@@ -1,0 +1,94 @@
+body {
+    background: linear-gradient(180deg, #1A1B21 0%, #05113B 100%); 
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+
+.main-0 {
+    display: flex;
+    width: 550px;
+    height: 868px;
+    padding: 45px;
+    justify-content: center;
+    text-align: center;
+    background: #23252C;
+    position: absolute;
+}
+
+
+.avatar {
+    width: 328px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.below-image {
+    background: #1A1B21;
+    width: 250px;
+    height: 405px;
+    padding: 10px 40px;
+   
+}
+
+
+.name {
+    color: #fff;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -10px;
+
+}
+
+.head-text {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+    color: white;
+
+
+} 
+
+.job-text {
+    font-size: 15px;
+    color: #F3BF99;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+
+.about-interests {
+    width: 250px;
+    height: 200px;
+    text-align: left;
+    font-size: 12px;
+    color: #DCDCDC;
+
+}
+
+.buttons {
+    display: block;
+    margin-right: 5px;
+}
+
+.b-1 {
+    align-items: baseline;
+    justify-content: space-between;
+    width: auto;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.b-2 {
+    background: #5093E2;
+    display: inline;
+    margin-left: 20px;
+    color: white;
+}

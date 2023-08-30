@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Audiowide', cursive;
+    background-color: #313866;
+    
+  
+}
+
+#hero {
+    background-image: url("https://media.giphy.com/media/tL5HmgfZi0Qow/giphy.gif");
+    background-color: red;
+    height: 600px;
+    padding: 10px 0 40px 0;
+    background-size: cover;
+}
+
+#logo {
+    width: 700px;
+    
+}
+
+.btn {
+    border: none;
+    background-color: aliceblue;
+    padding: 10px 30px;
+    font-size: 25px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-family: 'Audiowide', cursive;
+    
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 2px 4px #007577;
+}
+.fotor {
+    color: #1D5D9B;
+}
