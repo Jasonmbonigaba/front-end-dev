@@ -1,0 +1,233 @@
+body {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+
+}
+#page-background{
+    background-image: url(bgpic.jpg);
+    background-size: cover;
+}
+
+.bg-page{
+    display: flex;
+    height: 1500px;
+    width: 1044px;
+    padding: 0px 10px;
+    flex-direction: column;
+    align-items: center;
+
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0.00) 0%, #1C1C1C 100%);
+}
+
+.pg-components {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 34px;
+}
+
+#bg-img{
+    background-image: url(Musanze-7.jpg);
+    background-size: cover;
+}
+
+
+.head{
+    display: flex;
+    width: 600px;
+    padding: 195px 208px;
+    flex-direction: column;
+    align-items: center;
+    color: #000;
+    text-align: center;
+    font-family: Verdana;
+    line-height: normal;
+}
+
+h1 {
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: -35px;
+    color: whitesmoke;
+}
+
+.ds-text{
+   
+    font-size: 30px;
+    color: white;
+    line-height: 25px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    
+}
+
+.pl-intr {
+    width:935px;
+    height: 375px;
+    display: flex;
+    padding: 20px 40px;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+    border: 2px dashed #1A1B21;
+}
+
+#pl-hd {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    line-height: normal;
+    font-size: 15px;
+    color: #000;
+    margin-bottom: -10px;
+    margin-top: -30px;
+
+}
+
+.pls-box {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    color: black;
+    
+}
+
+
+.pl-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#crc-bg-1{
+    background-image: url(images\ \(1\).jpeg);
+    background-size: cover;
+}
+#crc-bg-2{
+    background-image: url(Bisate-Lodge-1.jpg);
+    background-size: cover;
+}
+#crc-bg-3{
+    background-image: url(images.jpeg);
+    background-size: cover;
+}
+
+
+
+.circle {
+    width: 183px;
+    height: 183px;
+    border-radius: 100%;
+    background-color: aqua;
+}
+
+.h3 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    word-wrap: break-word;
+}
+
+.pl-par {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22.50px;
+    word-wrap: break-word;
+    margin-top: -15px;
+}
+
+.tour-guide {
+    width:935px;
+    height: 375px;
+    display: flex;
+    padding: 20px 40px;
+    align-items: center;
+    gap: 45px;
+
+    background: #1A1B21;
+}
+
+.tg-text {
+    width: 570px;
+    height: 329px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    
+}
+ .avatar {
+    width: 326px;
+    height: 329px;
+    background: #F9F2F2;
+ }
+
+ #av-bg {
+    background-image: url(jason.png);
+    background-size: cover;
+ }
+
+ .id {
+    display: block;
+ }
+
+ .job-text {
+    font-size: 15px;
+    color: #F3BF99;
+    margin-bottom: 20px;
+
+}
+
+.name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: -10px;
+
+}
+
+.buttons {
+    display: block;
+    margin-right: 5px;
+    margin-top: -40px;
+}
+
+.b-1 {
+    align-items: baseline;
+    justify-content: space-between;
+    width: auto;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.b-2 {
+    background: #5093E2;
+    display: inline;
+    margin-left: 20px;
+    color: white;
+}
+
+.head-int {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 150%;
+    color: white;
+}
+
+.int-par {
+    color: #DCDCDC;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+}
